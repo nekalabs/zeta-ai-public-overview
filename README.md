@@ -2,9 +2,9 @@
 
 Production-ready AI SaaS platform designed for stock management, e-commerce operations, and automated social media workflows.
 
-![Status](https://img.shields.io/badge/status-production-green)
-![Architecture](https://img.shields.io/badge/architecture-multi--user-blue)
-![AI](https://img.shields.io/badge/integration-AI-orange)
+(https://img.shields.io/badge/status-production-green)![Status]
+(https://img.shields.io/badge/architecture-multi--user-blue)![Architecture]
+(https://img.shields.io/badge/integration-AI-orange)![AI]
 
 ---
 
