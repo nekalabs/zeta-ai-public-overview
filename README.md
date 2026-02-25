@@ -1,10 +1,12 @@
+# zeta-ai-public-overview
+Scalable AI-powered SaaS platform with multi-user architecture, credit-based usage control, and business automation workflows.
 # Zeta AI – AI-Powered SaaS Platform
 
 Production-ready AI SaaS platform designed for stock management, e-commerce operations, and automated social media workflows.
 
-(https://img.shields.io/badge/status-production-green)![Status]
-(https://img.shields.io/badge/architecture-multi--user-blue)![Architecture]
-(https://img.shields.io/badge/integration-AI-orange)![AI]
+![Status](https://img.shields.io/badge/status-production-green)
+![Architecture](https://img.shields.io/badge/architecture-multi--user-blue)
+![AI](https://img.shields.io/badge/integration-AI-orange)
 
 ---
 
