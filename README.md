@@ -81,9 +81,6 @@ The system architecture prioritizes:
 ---
 
 ## 📸 Interface Preview
-
-*(Add screenshots in /screenshots folder and reference them here)*
-
 ![Dashboard](./screenshots/dashboard.png)
 ![Credits](./screenshots/credits.png)
 
