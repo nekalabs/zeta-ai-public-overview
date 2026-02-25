@@ -82,8 +82,9 @@ The system architecture prioritizes:
 
 ## 📸 Interface Preview
 ![Dashboard](./screenshots/dashboard.png)
-![Credits](./screenshots/credits.png)
+![Login](./screenshots/login.png)
 ![Languages](./screenshots/languages.png)
+![Credits](./screenshots/credits.png)
 
 ---
 
