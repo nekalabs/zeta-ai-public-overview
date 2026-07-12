@@ -1,5 +1,3 @@
-# ztudio-public-overview
-Scalable AI-powered SaaS platform with multi-user architecture, credit-based usage control, and business automation workflows.
 # Ztudio – AI-Powered SaaS Platform
 
 Production-ready AI SaaS platform designed for stock management, e-commerce operations, and automated social media workflows.
